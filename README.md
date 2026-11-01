@@ -8,7 +8,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `PhantomBladeZero-Arabic-v1.0.1.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `PhantomBladeZero-Arabic-v1.0.2.exe`.
 
 أو حمّله من [Nexus Mods](https://www.nexusmods.com/phantombladezero/mods/59).
 
