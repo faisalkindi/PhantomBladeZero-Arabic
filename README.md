@@ -8,7 +8,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `PhantomBladeZero-Arabic-v1.0.4.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `PhantomBladeZero-Arabic-v1.0.5.exe`.
 
 أو حمّله من [Nexus Mods](https://www.nexusmods.com/phantombladezero/mods/59).
 
@@ -24,7 +24,7 @@
 
 ## تنبيه
 
-- صُمّم لإصدار Steam، رقم البناء 26266538. بعد أي تحديث للعبة انتظر نسخة جديدة من التعريب.
+- صُمّم لإصدار Steam، رقم البناء 26367565. بعد أي تحديث للعبة انتظر نسخة جديدة من التعريب.
 - يضيف المثبّت ملف version.dll في platform\steam، وهو الذي يضيف «العربية» إلى قائمة اللغات. إن كان في المجلد ملف version.dll من تعديل آخر، يحتفظ به المثبّت ويعمل التعديلان معًا.
 - بعض الشروحات وأسماء المناطق تبدأ من اليسار كما في النسخة الإنجليزية، حتى تظهر كاملة داخل الفقاعات وخانة ملف الحفظ.
 - أخبرنا بأي نص غير مترجم أو خارج مكانه مع صورة في [Issues](../../issues).
@@ -41,6 +41,6 @@
 
 ---
 
-Full Arabic localization of Phantom Blade Zero (Steam, build 26266538), translated directly from the original Chinese script: 10,769 lines covering the story and dialogue, quests, weapons and items, characters, enemies and bosses, menus, tutorials, loading screens and achievements, with the Readex Pro font. Arabic is added as an extra language; voices and the other languages are unchanged, and the game's own files are not modified. Download the installer from [Releases](../../releases/latest) or [Nexus Mods](https://www.nexusmods.com/phantombladezero/mods/59).
+Full Arabic localization of Phantom Blade Zero (Steam, build 26367565), translated directly from the original Chinese script: 10,769 lines covering the story and dialogue, quests, weapons and items, characters, enemies and bosses, menus, tutorials, loading screens and achievements, with the Readex Pro font. Arabic is added as an extra language; voices and the other languages are unchanged, and the game's own files are not modified. Download the installer from [Releases](../../releases/latest) or [Nexus Mods](https://www.nexusmods.com/phantombladezero/mods/59).
 
 This is a fan project, not affiliated with or endorsed by S-GAME. Phantom Blade Zero is a trademark of its respective owner.
